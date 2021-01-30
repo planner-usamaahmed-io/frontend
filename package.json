@@ -1,0 +1,75 @@
+{
+	"name": "front",
+	"version": "0.1.0",
+	"private": true,
+	"dependencies": {
+		"@date-io/date-fns": "^1.x",
+		"@date-io/dayjs": "^1.x",
+		"@date-io/luxon": "^1.x",
+		"@date-io/moment": "^1.x",
+		"@fullcalendar/core": "^4.4.0",
+		"@fullcalendar/daygrid": "^4.4.0",
+		"@fullcalendar/interaction": "^4.4.0",
+		"@fullcalendar/list": "^4.4.0",
+		"@fullcalendar/react": "^4.4.0",
+		"@fullcalendar/resource-timeline": "^4.4.0",
+		"@fullcalendar/timegrid": "^4.4.0",
+		"@fullcalendar/timeline": "^4.4.0",
+		"@material-ui/core": "^4.6.0",
+		"@material-ui/icons": "^4.5.1",
+		"@material-ui/lab": "^4.0.0-alpha.31",
+		"@material-ui/pickers": "^3.2.7",
+		"@material-ui/styles": "^4.6.0",
+		"@testing-library/jest-dom": "^4.2.4",
+		"@testing-library/react": "^9.4.0",
+		"@testing-library/user-event": "^7.2.1",
+		"antd": "^4.1.5",
+		"axios": "^0.19.1",
+		"clsx": "^1.1.0",
+		"core-js": "^3.6.5",
+		"date-fns": "^2.16.0",
+		"fullcalendar": "^3.10.1",
+		"history": "^4.10.1",
+		"interactjs": "^1.9.10",
+		"lodash": "^4.17.15",
+		"moment": "^2.24.0",
+		"prop-types": "^15.7.2",
+		"react": "^16.12.0",
+		"react-calendar-timeline": "^0.26.7",
+		"react-csv": "^2.0.3",
+		"react-dom": "^16.12.0",
+		"react-helmet": "^5.2.1",
+		"react-perfect-scrollbar": "^1.5.8",
+		"react-redux": "^7.2.0",
+		"react-router-config": "^5.1.1",
+		"react-router-dom": "^5.1.2",
+		"react-scripts": "3.4.0",
+		"react-thunk": "^1.0.0",
+		"react-virtualized": "^9.21.2",
+		"redux": "^4.0.5",
+		"redux-devtools-extension": "^2.13.8",
+		"redux-thunk": "^2.3.0",
+		"validate.js": "^0.13.1"
+	},
+	"scripts": {
+		"start": "react-scripts start",
+		"build": "react-scripts build",
+		"test": "react-scripts test",
+		"eject": "react-scripts eject"
+	},
+	"eslintConfig": {
+		"extends": "react-app"
+	},
+	"browserslist": {
+		"production": [
+			">0.2%",
+			"not dead",
+			"not op_mini all"
+		],
+		"development": [
+			"last 1 chrome version",
+			"last 1 firefox version",
+			"last 1 safari version"
+		]
+	}
+}
